@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7324
     wikipedia: http://fr.wikipedia.org/wiki/Edmond_Lepelletier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42472#Madame-Sans-G-ne-Tome-IRoman-tir--de-la-Pi-ce-de-Mm.-Victorien-Sardou-et--mile-Moreau
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-04-06'
 gutenberg_type: Text
